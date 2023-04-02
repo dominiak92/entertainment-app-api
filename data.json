@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "id": 1,
+      "id": 0,
       "category": "Movie",
       "isBookmarked": true,
       "isTrending": true,
@@ -21,7 +21,7 @@
       "year": 2019
     },
     {
-      "id": 2,
+      "id": 1,
       "category": "Movie",
       "isBookmarked": false,
       "isTrending": true,
@@ -41,7 +41,7 @@
       "year": 2021
     },
     {
-      "id": 3,
+      "id": 2,
       "category": "TV Series",
       "isBookmarked": false,
       "isTrending": true,
@@ -61,7 +61,7 @@
       "year": 2019
     },
     {
-      "id": 4,
+      "id": 3,
       "category": "Movie",
       "isBookmarked": false,
       "isTrending": true,
@@ -81,7 +81,7 @@
       "year": 2021
     },
     {
-      "id": 5,
+      "id": 4,
       "category": "TV Series",
       "isBookmarked": false,
       "isTrending": true,
@@ -101,7 +101,7 @@
       "year": 2018
     },
     {
-      "id": 6,
+      "id": 5,
       "category": "Movie",
       "isBookmarked": false,
       "isTrending": false,
@@ -117,7 +117,7 @@
       "year": 2019
     },
     {
-      "id": 7,
+      "id": 6,
       "category": "TV Series",
       "isBookmarked": false,
       "isTrending": false,
@@ -133,7 +133,7 @@
       "year": 2019
     },
     {
-      "id": 8,
+      "id": 7,
       "category": "Movie",
       "isBookmarked": false,
       "isTrending": false,
@@ -149,7 +149,7 @@
       "year": 2017
     },
     {
-      "id": 9,
+      "id": 8,
       "category": "Movie",
       "isBookmarked": false,
       "isTrending": false,
@@ -165,7 +165,7 @@
       "year": 2019
     },
     {
-      "id": 10,
+      "id": 9,
       "category": "TV Series",
       "isBookmarked": false,
       "isTrending": false,
@@ -181,7 +181,7 @@
       "year": 2016
     },
     {
-      "id": 11,
+      "id": 10,
       "category": "TV Series",
       "isBookmarked": false,
       "isTrending": false,
@@ -197,7 +197,7 @@
       "year": 2016
     },
     {
-      "id": 12,
+      "id": 11,
       "category": "Movie",
       "isBookmarked": false,
       "isTrending": false,
@@ -213,7 +213,7 @@
       "year": 2017
     },
     {
-      "id": 13,
+      "id": 12,
       "category": "TV Series",
       "isBookmarked": false,
       "isTrending": false,
@@ -229,7 +229,7 @@
       "year": 2016
     },
     {
-      "id": 14,
+      "id": 13,
       "category": "TV Series",
       "isBookmarked": false,
       "isTrending": false,
@@ -245,7 +245,7 @@
       "year": 2015
     },
     {
-      "id": 15,
+      "id": 14,
       "category": "Movie",
       "isBookmarked": false,
       "isTrending": false,
@@ -261,7 +261,7 @@
       "year": 2017
     },
     {
-      "id": 16,
+      "id": 15,
       "category": "TV Series",
       "isBookmarked": false,
       "isTrending": false,
@@ -277,7 +277,7 @@
       "year": 2018
     },
     {
-      "id": 17,
+      "id": 16,
       "category": "Movie",
       "isBookmarked": false,
       "isTrending": false,
@@ -293,7 +293,7 @@
       "year": 2015
     },
     {
-      "id": 18,
+      "id": 17,
       "category": "Movie",
       "isBookmarked": false,
       "isTrending": false,
@@ -309,7 +309,7 @@
       "year": 2021
     },
     {
-      "id": 19,
+      "id": 18,
       "category": "Movie",
       "isBookmarked": false,
       "isTrending": false,
@@ -325,7 +325,7 @@
       "year": 2017
     },
     {
-      "id": 20,
+      "id": 19,
       "category": "Movie",
       "isBookmarked": false,
       "isTrending": false,
@@ -341,7 +341,7 @@
       "year": 2017
     },
     {
-      "id": 21,
+      "id": 20,
       "category": "TV Series",
       "isBookmarked": false,
       "isTrending": false,
@@ -357,7 +357,7 @@
       "year": 2013
     },
     {
-      "id": 22,
+      "id": 21,
       "category": "Movie",
       "isBookmarked": false,
       "isTrending": false,
@@ -373,7 +373,7 @@
       "year": 2017
     },
     {
-      "id": 23,
+      "id": 22,
       "category": "TV Series",
       "isBookmarked": false,
       "isTrending": false,
@@ -389,7 +389,7 @@
       "year": 2018
     },
     {
-      "id": 24,
+      "id": 23,
       "category": "TV Series",
       "isBookmarked": false,
       "isTrending": false,
@@ -405,7 +405,7 @@
       "year": 2016
     },
     {
-      "id": 25,
+      "id": 24,
       "category": "TV Series",
       "isBookmarked": false,
       "isTrending": false,
@@ -421,7 +421,7 @@
       "year": 2020
     },
     {
-      "id": 26,
+      "id": 25,
       "category": "TV Series",
       "isBookmarked": false,
       "isTrending": false,
@@ -437,7 +437,7 @@
       "year": 2016
     },
     {
-      "id": 27,
+      "id": 26,
       "category": "Movie",
       "isBookmarked": false,
       "isTrending": false,
@@ -453,9 +453,9 @@
       "year": 2017
     },
     {
-      "id": 28,
+      "id": 27,
       "category": "TV Series",
-      "isBookmarked": false,
+      "isBookmarked": false, 
       "isTrending": false,
       "rating": "18+",
       "thumbnail": {
@@ -469,7 +469,7 @@
       "year": 2018
     },
     {
-      "id": 29,
+      "id": 28,
       "category": "Movie",
       "isBookmarked": false,
       "isTrending": false,
