@@ -2,7 +2,7 @@
   "data": [
     {
       "category": "Movie",
-      "isBookmarked": false,
+      "isBookmarked": true,
       "isTrending": true,
       "rating": "PG",
       "thumbnail": {
